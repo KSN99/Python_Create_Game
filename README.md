@@ -10,3 +10,5 @@ Git test.
 2. Setting Background 
 
 3. Create charater 
+
+4. Keyboard event
