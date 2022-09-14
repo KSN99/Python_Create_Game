@@ -12,3 +12,5 @@ Git test.
 3. Create charater 
 
 4. Keyboard event
+
+5. frame_per _second 
