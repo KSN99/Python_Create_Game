@@ -16,3 +16,5 @@ Git test.
 5. frame_per _second 
 
 6. collision 
+
+7. text 
