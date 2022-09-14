@@ -14,3 +14,5 @@ Git test.
 4. Keyboard event
 
 5. frame_per _second 
+
+6. collision 
